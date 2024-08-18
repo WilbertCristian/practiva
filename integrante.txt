@@ -1,0 +1,5 @@
+Integrantes: 
+- Wilbert Cristian Condori
+Levatar el servidor:
+- npm install 
+- npm run start
